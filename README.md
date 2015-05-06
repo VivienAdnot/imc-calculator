@@ -1,2 +1,2 @@
 # imc-calculator
-Ask weight and size and return the imc number.
+First Android App. Ask weight and size and return the imc number.
