@@ -21,7 +21,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:hint="@string/weight"
-        android:inputType="number"/>
+        android:inputType="numberDecimal"/>
 
     <TextView
         android:text="@string/size"
@@ -36,7 +36,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:hint="@string/size"
-        android:inputType="number"/>
+        android:inputType="numberDecimal"/>
 
     <RadioGroup
         android:layout_width="wrap_content"
@@ -46,7 +46,7 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/centimeter"
+            android:text="@string/meter"
             android:id="@+id/meter"
             android:checked="true"/>
         <RadioButton
