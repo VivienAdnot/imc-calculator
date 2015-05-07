@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMCCalculator</string>
+    <string name="action_settings">Action Settings</string>
+
+    <string name="weight">Weight</string>
+    <string name="size">Height</string>
+    <string name="compute">Compute</string>
+    <string name="meter">Meter</string>
+    <string name="centimeter">Centimeter</string>
+</resources>
